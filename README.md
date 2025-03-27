@@ -1,9 +1,9 @@
-💫 Hi, I’m Alimahdi Bahrami
-<br>👀 I’m Interested in IoT & Front-end
-<br>🌱 I’m currently learning vue.js
-<br>🤝 I’m looking for collaboration
-<br>⚡ I’m interested in working enthusiastically and passionately wherever I go, gaining new experiences
-<br>📫 How to reach me [alimahdibahrami](https://www.linkedin.com/in/alimahdibahrami/) on linkedin
+💫 Hi, I’m **Alimahdi Bahrami**
+<br>💡 Passionate **Software Developer** with experience in **Frontend (Vue.js, Nuxt.js)** and **Backend (FastAPI, SQL Server)**
+<br>🚀 Always learning & exploring new technologies
+<br>🤝 Open to collaboration on exciting projects
+<br>🔍 Interested in **Backend Development, Web Applications & System Design**
+<br>📫 How to reach me [**AlimahdiBahrami**](https://www.linkedin.com/in/alimahdibahrami/) on Linkedin
 
 
 <!--
