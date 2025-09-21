@@ -27,11 +27,11 @@
 
 ## 💻 Tech Stack
 
-**🔧 Backend:** `Python` • `FastAPI` • `SQL Server` • `SQLite` • `Neo4j` • `JWT`  
-**🎨 Frontend:** `Vue.js` • `Nuxt.js` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `Figma` • `Leaflet`
-**🤖 IoT & Hardware:** `Arduino` • `ESP32/ESP8266` • `Sensor Integration`  
-**🚀 DevOps:** `Docker` • `Nginx` • `Linux` • `Git`
-**💡 Specialties:** `REST APIs` • `WebSocket` • `Telegram Bots` • `System Architecture`
+**🔧 Backend:** `Python` • `FastAPI` • `SQL Server` • `SQLite` • `Neo4j` • `JWT`<br>
+**🎨 Frontend:** `Vue.js` • `Nuxt.js` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `Figma` • `Leaflet`<br>
+**🤖 IoT & Hardware:** `Arduino` • `ESP32/ESP8266` • `Sensor Integration`<br>
+**🚀 DevOps:** `Docker` • `Nginx` • `Linux` • `Git`<br>
+**💡 Specialties:** `REST APIs` • `WebSocket` • `Telegram Bots` • `System Architecture`<br>
 
 ---
 
